@@ -8,3 +8,5 @@ Customers,Employees, Offices, Order Details, Orders, Payments, Product Lines, Pr
 The initial data contained various irregularities, including NULL values, incorrect data, improperly formatted data, and empty cells. These issues were resolved through rigorous data cleaning activities such as data profiling, handling missing data, data transformation, data validation, and filtering unnecessary data using Power BI tool. The cleaned and validated data ensures accurate and reliable analysis for making data-driven decisions to optimize business performance and sales strategies.
 
 The dashboard is designed to help users analyze business performance, identify trends, and make data-driven decisions to optimize operations and sales strategies.
+
+NOTE: The above csv files contains all kind of irregularities, including NULL values, incorrect data, improperly formatted data, and empty cells, which is been taken care off while creating the dashboard using Power-Bi tool.
